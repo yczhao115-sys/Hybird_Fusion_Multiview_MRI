@@ -1,4 +1,4 @@
-# hybird_fusion_multiview_MRI
+# Hybird_Fusion_Multiview_MRI
 
 This repository provides the official PyTorch implementation of the core model architecture proposed in:
 
